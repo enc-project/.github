@@ -3,7 +3,8 @@
 Trust in politics is eroding.
 Politicans seem to say one thing but then do another.
 
-Our [political system](https://en.wikipedia.org/wiki/1708_British_general_election) was invented [before electricity](https://en.wikipedia.org/wiki/Electricity).
+Our current [political system](https://en.wikipedia.org/wiki/1708_British_general_election) was invented [before electricity](https://en.wikipedia.org/wiki/Electricity) became part of modern civilization.
+
 Now we have the Internet, blockchains and generative AI.
 
 We can change this, if enough of us want to.
@@ -28,7 +29,7 @@ If you have any opinions, PLEASE tell your friends, your family, your colleagues
 
 # how to contribute
 
-Start talking to your friends, your family, your colleagues.  Discuss why you dis-agree with this, or agree.
+Start talking to your friends, your family, your colleagues.  Discuss why you disagree with this, or agree.
 
 Share these pages on your socials, and ask for feedback.
 
@@ -36,3 +37,5 @@ Share these pages on your socials, and ask for feedback.
 
  * [.github](https://github.com/enc-project/.github) - the .github repo that contains the org profile readme
  * [map](https://github.com/enc-project/map) - the website
+ * [protest-tracker](https://github.com/enc-project/protest-tracker) - a project to discover politcal engagement in the form of protests
+ * [ideology-adjuster](https://github.com/enc-project/map) - a project that reveals media manipulation and biases
